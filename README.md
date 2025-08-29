@@ -2,8 +2,7 @@
 
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?logo=next.js)](https://nextjs.org/)  
 [![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-4-blue?logo=tailwind-css)](https://tailwindcss.com/)  
-[![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)](https://www.typescriptlang.org/)  
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
+[![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?logo=typescript)](https://www.typescriptlang.org/)
 
 ---
 
@@ -16,9 +15,8 @@ It avoids the common hydration flicker by applying `.light` / `.dark` classes to
 
 ## 📸 Preview
 
-| Light ☀️                                                               | Dark 🌙                                                              |
-| ---------------------------------------------------------------------- | -------------------------------------------------------------------- |
-| ![Light Mode](https://via.placeholder.com/300x150.png?text=Light+Mode) | ![Dark Mode](https://via.placeholder.com/300x150.png?text=Dark+Mode) |
+| Light ☀️ | Dark 🌙 |
+| -------- | ------- |
 
 ---
 
@@ -36,7 +34,8 @@ npm run dev
 
 Then open http://localhost:3000 in your browser.
 
-🛠 Add to Your Project
+## 🛠 How to use in your own project
+
 If you want to use this theme-switcher in your own project:
 
 1️⃣ Copy Components
