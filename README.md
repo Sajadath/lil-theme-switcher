@@ -13,12 +13,12 @@ It avoids the common hydration flicker by applying `.light` / `.dark` classes to
 
 ---
 
-## 🚀 Getting Started
+## 📸 Getting Started Preview
 
-**📸 Preview**
 
-| Light ☀️ | Dark 🌙 |
-| -------- | ------- | Clone the repo then install dependencies
+
+To preview| Light ☀️ | Dark 🌙 | theme
+Clone the repo then install dependencies
 
 ```bash
 # Install dependencies
