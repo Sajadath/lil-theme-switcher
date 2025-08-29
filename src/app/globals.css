@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+.dark {
+  --primary-background-color: black;
+  --primary-color: white;
+}
+.light {
+  --primary-background-color: white;
+  --primary-color: black;
+}
+
+@theme inline {
+  --color-primary-background-color: var(--primary-background-color);
+  --color-primary-color: var(--primary-color);
+}
+body {
+  background-color: var(--primary-background-color);
+  color: var(--primary-color);
+}
