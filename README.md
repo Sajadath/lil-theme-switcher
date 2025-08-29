@@ -18,9 +18,7 @@ It avoids the common hydration flicker by applying `.light` / `.dark` classes to
 **📸 Preview**
 
 | Light ☀️ | Dark 🌙 |
-| -------- | ------- |
-
-Clone the repo and run locally:
+| -------- | ------- | Clone the repo then install dependencies
 
 ```bash
 # Install dependencies
