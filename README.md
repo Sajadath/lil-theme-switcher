@@ -79,11 +79,18 @@ src/
 ```
 
 ✨ Features
+
 ✅ No flash before hydration
+
 ✅ Dark mode 🌙 + Light mode ☀️
+
 ✅ Persistent theme via cookies (or manual storage)
+
 ✅ Tailwind CSS v4 ready
+
 ✅ TypeScript support
+
+🎗️ Just keep in mind with this you opt out ISR and SSG because of using cookies in server to tell server which theme the user wants ofc.
 
 📜 License
 This project is licensed under the MIT License.
