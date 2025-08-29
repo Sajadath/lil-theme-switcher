@@ -13,14 +13,12 @@ It avoids the common hydration flicker by applying `.light` / `.dark` classes to
 
 ---
 
-## 📸 Preview
+## 🚀 Getting Started
+
+**📸 Preview**
 
 | Light ☀️ | Dark 🌙 |
 | -------- | ------- |
-
----
-
-## 🚀 Getting Started
 
 Clone the repo and run locally:
 
