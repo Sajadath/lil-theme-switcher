@@ -66,12 +66,12 @@ You now have a smooth, flicker-free dark/light theme switcher.
 ```bash
 src/
     components/
-        Theme/
-            ThemeProvider.tsx
-            ThemeContainer.tsx
-            ThemeButton.tsx
-            ThemeIcon.tsx
-            ThemeCircle.tsx
+                Theme/
+                        ThemeProvider.tsx
+                        ThemeContainer.tsx
+                        ThemeButton.tsx
+                        ThemeIcon.tsx
+                        ThemeCircle.tsx
 ```
 
 ✨ Features
